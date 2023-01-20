@@ -1,0 +1,7 @@
+maven controles: mvn compile
+java compilar java -cp 'resto do endereço do arquivo a ser compilado'
+fazendo commits do C9 :
+
+git add . (adicionar todos os dados)
+git commit -m "Inserir comentario aqui" (commit+comentario)
+git push
